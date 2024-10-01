@@ -1,0 +1,17 @@
+[
+    {"id": 1, "name": "Acetic Acid", "vendor": "ABC Chemicals", "density": 1.05, "viscosity": 0.9, "packaging": "Bottle", "packSize": "1L", "unit": "L", "quantity": 100},
+    {"id": 2, "name": "Sodium Chloride", "vendor": "XYZ Corp", "density": 2.16, "viscosity": 0.0, "packaging": "Bag", "packSize": "500g", "unit": "g", "quantity": 200},
+    {"id": 3, "name": "Ethanol", "vendor": "Chemicals Inc.", "density": 0.789, "viscosity": 1.2, "packaging": "Drum", "packSize": "5L", "unit": "L", "quantity": 50},
+    {"id": 4, "name": "Methanol", "vendor": "Global Chemicals", "density": 0.791, "viscosity": 0.6, "packaging": "Bottle", "packSize": "1L", "unit": "L", "quantity": 150},
+    {"id": 5, "name": "Benzene", "vendor": "Chemical Co.", "density": 0.874, "viscosity": 0.65, "packaging": "Can", "packSize": "1L", "unit": "L", "quantity": 80},
+    {"id": 6, "name": "Acetone", "vendor": "Solvents Ltd.", "density": 0.784, "viscosity": 0.32, "packaging": "Bottle", "packSize": "500ml", "unit": "ml", "quantity": 120},
+    {"id": 7, "name": "Hydrochloric Acid", "vendor": "Acid Suppliers", "density": 1.19, "viscosity": 0.9, "packaging": "Drum", "packSize": "10L", "unit": "L", "quantity": 30},
+    {"id": 8, "name": "Sulfuric Acid", "vendor": "Acid Masters", "density": 1.84, "viscosity": 18.1, "packaging": "Bottle", "packSize": "1L", "unit": "L", "quantity": 40},
+    {"id": 9, "name": "Ammonia", "vendor": "Nitrogen Corp.", "density": 0.73, "viscosity": 0.4, "packaging": "Cylinder", "packSize": "1L", "unit": "L", "quantity": 60},
+    {"id": 10, "name": "Sodium Bicarbonate", "vendor": "Baking Supplies", "density": 2.20, "viscosity": 0.0, "packaging": "Bag", "packSize": "1kg", "unit": "kg", "quantity": 150},
+    {"id": 11, "name": "Calcium Carbonate", "vendor": "Minerals Co.", "density": 2.71, "viscosity": 0.0, "packaging": "Bag", "packSize": "1kg", "unit": "kg", "quantity": 90},
+    {"id": 12, "name": "Potassium Nitrate", "vendor": "Fertilizers Inc.", "density": 1.98, "viscosity": 0.0, "packaging": "Bag", "packSize": "500g", "unit": "g", "quantity": 70},
+    {"id": 13, "name": "Sodium Sulfate", "vendor": "Chemicals Ltd.", "density": 2.68, "viscosity": 0.0, "packaging": "Bag", "packSize": "1kg", "unit": "kg", "quantity": 110},
+    {"id": 14, "name": "Magnesium Sulfate", "vendor": "Minerals Co.", "density": 1.68, "viscosity": 0.0, "packaging": "Bag", "packSize": "1kg", "unit": "kg", "quantity": 90},
+    {"id": 15, "name": "Calcium Chloride", "vendor": "Chemical Supply Co.", "density": 1.54, "viscosity": 0.0, "packaging": "Bag", "packSize": "500g", "unit": "g", "quantity": 120}
+]
